@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:6:1-8:37
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:8:5-34
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:9:1-79
+	android:name
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:9:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:10:1-91
+	android:name
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:10:18-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:11:1-88
+	android:name
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:11:18-69
+application
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:12:1-27:15
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:15:5-37
+	android:supportsRtl
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:16:5-31
+	android:allowBackup
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:13:5-31
+	android:icon
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:14:5-39
+	android:theme
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:17:5-36
+activity#com.example.nicolasferranti.androidserver.MainActivity
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:19:5-26:16
+	android:label
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:21:9-41
+	android:name
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:20:9-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/src/main/AndroidManifest.xml:24:23-70

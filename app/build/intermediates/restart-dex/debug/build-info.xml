@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="70547472726128"
+    token="-8823888021152047557" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_e9b4407fb18ea9d4d7cda4be177cbd5b4385acfb/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_808b1a0827db9a5e35e2b8539ad43c5aef16d248/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_adc850e5029d9fd9fff3feabcb5b86e2f9731c45/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_df969bac5cfe5742f021ccff2b625fba798c7bb6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f398c7d7e357576407fe1acaa828813a92304dfc/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_be75a4d7589adef8735d1583f62a237e6f028bb1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_69cd8f1689a12b54e206476ac0711cf46aa5bf2d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_8a84db3935476d14d5a2de30b8d5ca28811900a7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="70086675881498" >
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="70547472726128" >
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_e9b4407fb18ea9d4d7cda4be177cbd5b4385acfb/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_808b1a0827db9a5e35e2b8539ad43c5aef16d248/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_adc850e5029d9fd9fff3feabcb5b86e2f9731c45/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_df969bac5cfe5742f021ccff2b625fba798c7bb6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f398c7d7e357576407fe1acaa828813a92304dfc/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_be75a4d7589adef8735d1583f62a237e6f028bb1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_69cd8f1689a12b54e206476ac0711cf46aa5bf2d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_8a84db3935476d14d5a2de30b8d5ca28811900a7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

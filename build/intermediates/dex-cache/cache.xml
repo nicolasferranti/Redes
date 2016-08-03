@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="769355e83e7014af024be6530db550599f6ef4dd">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f398c7d7e357576407fe1acaa828813a92304dfc/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_df969bac5cfe5742f021ccff2b625fba798c7bb6.jar" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_df969bac5cfe5742f021ccff2b625fba798c7bb6/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_e9b4407fb18ea9d4d7cda4be177cbd5b4385acfb/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_69cd8f1689a12b54e206476ac0711cf46aa5bf2d.jar" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_69cd8f1689a12b54e206476ac0711cf46aa5bf2d/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_e9b4407fb18ea9d4d7cda4be177cbd5b4385acfb.jar" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_8a84db3935476d14d5a2de30b8d5ca28811900a7.jar" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5478fd583bc71a4297127ac85c120125cd2da5c8">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_adc850e5029d9fd9fff3feabcb5b86e2f9731c45/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_8a84db3935476d14d5a2de30b8d5ca28811900a7/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_be75a4d7589adef8735d1583f62a237e6f028bb1/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_be75a4d7589adef8735d1583f62a237e6f028bb1.jar" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_808b1a0827db9a5e35e2b8539ad43c5aef16d248/classes.dex" />
+    </item>
+    <item
+        jar="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/nicolasferranti/AndroidStudioProjects/AndroidServer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_808b1a0827db9a5e35e2b8539ad43c5aef16d248.jar" />
+    </item>
+
+</items>
